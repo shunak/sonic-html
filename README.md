@@ -15,7 +15,7 @@ cd dir/where/you/wanna/create/html/template
 ```
 if your shell is bash,
 ```
-bash start.sh
+bash sonic-html.sh
 ```
 index.html and style.css created in your directory.
 
